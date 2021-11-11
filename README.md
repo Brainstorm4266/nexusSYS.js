@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![nexusSYS Logo](https://raw.githubusercontent.com/Brainstorm4266/nexusSYS.js/main/public/assets/nexusSYSlogobig.png)
+
+# The nexusSYS.js project
+
+Below is the default nextJS readme.
 
 ## Getting Started
 
